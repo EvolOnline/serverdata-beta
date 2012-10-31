@@ -4,7 +4,7 @@
 // Description:
 //    Hidden in a ship's hole.
 
-000-2-1.gat,33,31,0,1	script	Alige	301;2,{
+000-2-1.gat,33,31,0,1	script	Alige	301{
 
     mesn "Narrator";
 
