@@ -32,7 +32,7 @@ l_Menu:
         lg("I'm sick, I'm going back to bed."), -;
 
     mesn;
-    mesq l("That's a good idea, go rest a bit and I'll see you tomorow!");
+    mesq l("That's a good idea, go rest a bit and I'll see you tomorrow!");
     close;
 
 l_Event:
@@ -51,16 +51,16 @@ l_Julia:
     mesn;
     mesq l("You really have a bad amnesia.");
     next;
-    mesq l("She is the nurse and the shipkeeper of this ship, and also an excellent cook!");
+    mesq l("She is the nurse and the ship keeper of this ship, and also an excellent cook!");
     next;
     mesq l("But more than everything, she is the one which took care of you when you were in coma.");
     close;
 
 l_Ok:
     mesn;
-    mesq l("Good to know. From what Darlin reported to me, we'll soon come accross a little island, before we arrive in Artis.");
+    mesq l("Good to know. From what Darlin reported to me, we'll soon come across a little island, before we arrive in Artis.");
     next;
-    mesq l("It'll be a good moment for you to do some exercice, as the ship is not very vast for that.");
+    mesq l("It'll be a good moment for you to do some exercise, as the ship is not very vast for that.");
     close;
 
 }
