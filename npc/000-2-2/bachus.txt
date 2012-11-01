@@ -16,10 +16,10 @@ l_Intro:
 
     menu
         rif(countitem("Pumpkin") > 0, l("I have one!")), l_DoHat,
-        l("Where did you get this hat?"), l_Hat,
-        l("Excuse me, but who are you?"), -,
-        l("Where can I find this Pumpkin?"), l_Where,
-        l("Good bye..."), l_Bye;
+        l("Where did you get that hat?"), l_Hat,
+        l("Forgive me, but... who are you?"), -,
+        l("Where can I find this pumpkin?"), l_Where,
+        l("Goodbye..."), l_Bye;
 
     mes "";
     mesn;
@@ -67,24 +67,24 @@ l_Hat:
     next;
 
     menu
-        l("I would like, yes."), -,
-        l("I think that I'll leave you..."), l_Bye;
+        l("I would like one too, indeed."), -,
+        l("No thanks, I think that I'll leave you alone..."), l_Bye;
 
     mes "";
     mesn;
-    mesq l("You would like...? So I think that's... Possible, let's say, yes! Yes it's possible.");
+    mesq l("You would like... ? So I think that's... Possible, let's say... yes! Yes, it's possible.");
     next;
-    mesq l("You just need to bring me... One @@, that's all. I'll carve it myself.", getitemlink("Pumpkin"));
+    mesq l("You just need to bring me... one @@, that's all. I'll carve it myself.", getitemlink("Pumpkin"));
     next;
 
     menu
-        l("Deal! I'll bring you this."), -,
-        l("Where can I find this Pumpkin?"), l_Where,
-        l("I changed my mind, I don't want it."), l_Bye;
+        l("Deal! I'll bring you one."), -,
+        l("Where can I find this pumpkin?"), l_Where,
+        l("I changed my mind, I don't want it anymore."), l_Bye;
 
     mes "";
     mesn;
-    mesq l("Nice!! I'll wait you here.");
+    mesq l("Nice! I'll wait you here.");
 
     close;
 
@@ -111,7 +111,7 @@ l_Bye:
 l_DoHat:
     mes "";
     mesn;
-    mesq l("Nice nice... Wait some seconds...");
+    mesq l("Nice nice... Wait few seconds...");
     next;
 
     mesn "Narrator";
@@ -122,9 +122,9 @@ l_DoHat:
     getitem "PumpkinHat", 1;
 
     mesn;
-    mesq l("Did I said you, that a long time ago... Oh, I've done it!");
+    mesq l("Did I told you that a long time ago... Oh, I'm done.");
     next;
-    mesq l("That's remarquable, I've never done anything like that one before, consider yourself lucky!");
+    mesq l("That's remarkable, I've never made anything like that one before, consider yourself lucky!");
 
     close;
 
