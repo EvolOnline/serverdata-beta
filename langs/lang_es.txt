@@ -183,7 +183,7 @@ Any clue on where Astapolos may be hidden?
 ¿Alguna pista de en dónde podría estar escondido Astapolos?
 
 Any contribution to the game (translations, graphics creation/edition, concepts, coding/scripting, etc...) is rewarded!
-
+¡Cualquier contribución al juego (traducción, creación/edición de gráficos, conceptos, codificación/scripting, etc...) es recompensada!
 
 Anyway I am glad I can give you some of these yoyoxs.
 De todos modos estoy contento de poder darte algunas de estas yoyajas.
@@ -192,7 +192,7 @@ Anyway, can I help you in any way?
 Como sea... ¿Puedo ayudarte de algún modo?
 
 Anyway, here, have a cookie!
-
+De todos modos, ¡aquí tienes una galleta!
 
 Anyway, if you ever feel interested, just check my bag!#0
 De cualquier forma, si en cualquier momento te sientes interesada, sólo chequea mi bolso.
@@ -393,7 +393,7 @@ Cookies are a source of life.
 Las galletas son una fuente de vida.
 
 Cookies are awesome, so am I.
-
+Las galletas son impresionantes, yo también.
 
 Cookies provide you strength, health and cuteness.
 Las Galletas te proporcionan fuerza, salud y ternura.
@@ -1329,7 +1329,7 @@ It is them who tell me to whom I can give cookies.
 Son ellos quienes me dicen a quién le puedo dar galletas.
 
 It looks like madam is curious, am I right?
-
+Parece que la señora es curiosa, ¿estoy en lo cierto?
 
 It looks like you are an expert of the life inside 'La Johanne'. Do you know any hidden secrets nobody knows?#0
 Parece que eres una experta en la vida dentro de 'La Johanne'. ¿Sabes algunos secretos ocultos que nadie sepa?
@@ -1341,7 +1341,7 @@ It looks like you can't carry anything else for now.
 Parece que no puedes cargar nada más, por ahora.
 
 It seems mister is curious, are you not?
-
+Parece que el señor es curioso, ¿o no lo eres?
 
 It seems that we're close to an island, we should take a look at the upper level.
 Parece que estamos cerca de una isla, deberíamos ir a ver el nivel superior.
@@ -2112,10 +2112,10 @@ That's perfect, yoiis.#1
 Eso es perfecto, yoiis.
 
 That's quite surprising... You don't look very helpful.#0
-
+Eso es bastante sorprendente... No pareces muy útil.
 
 That's quite surprising... You don't look very helpful.#1
-
+Eso es bastante sorprendente... No pareces muy útil.
 
 The adventure begins!
 ¡La aventura comienza! 
@@ -2289,7 +2289,7 @@ To open your inventory, use the F3 key or use your mouse to select it in the abo
 Para abrir tu inventario, usa la tecla F3 o usa el ratón para seleccionarlo en el menú de arriba del cliente.
 
 Too bad I'm not hungry enough right now for these... cookies. I'll maybe come back later.
-
+Lástima que no esté lo suficiente hambriento en este momento para esas... galletas. Tal vez vuelva más tarde.
 
 Too bad... Come back when you'll have some fine food for me.
 Es una lástima... Regresa cuando tengas algo de buena comida para mí. 
@@ -2427,10 +2427,10 @@ Well, even though you have been rescued by us, it doesn't make you an expert sai
 Bueno, aunque has sido rescatado por nosotros, eso no te hace un marinero experto, ¿cierto?
 
 Well, if you want to be one of those who can have a cookie...#0
-
+Bueno, si tú quieres ser una de esas quienes pueden tener una galleta...
 
 Well, if you want to be one of those who can have a cookie...#1
-
+Bueno, si tú quieres ser uno de esos quienes puede tener una galleta...
 
 Well, is there anything I can do here to help?
 Bieno, ¿hay algo que pueda hacer aquí para ayudar?
@@ -2703,7 +2703,7 @@ Yes, why not.
 Sí, por qué no.
 
 Yes, yes I know... Too bad then. See you soon!
-
+Sí, sí, yo sé... Es una lástima, entonces. ¡Hasta luego!
 
 Yes.
 Sí.

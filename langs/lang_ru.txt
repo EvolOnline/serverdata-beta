@@ -69,7 +69,7 @@ Copyright (C) 2010-2013 Evol Online
 @@? Добро пожаловать, дорогой!
 
 A cookie!
-Печенька!
+Печеньку!
 
 A great city, now the capital of these islands, called Esperia, rose on the single island, Aurora, where everyone lived.
 Великий город, ставший столицей этих островов, Эспэрия, процветал на одном из густонаселённых островов - Авроре.
@@ -174,16 +174,16 @@ And you, how are you doing?
 А ты как поживаешь?
 
 And you? How's it going on your side?
-А вы? Как дела у вас?
+А ты? Как дела у тебя?
 
 And you? How's it yaying on your side?
-А вы? Как йейтся у вас?
+А ты? Как йейтся у тебя?
 
 Any clue on where Astapolos may be hidden?
 Есть идеи где Астополос может прятаться?
 
 Any contribution to the game (translations, graphics creation/edition, concepts, coding/scripting, etc...) is rewarded!
-
+Любой вклад в игру (переводы, создание/редактирование графики, арт, кодинг/скриптинг, т.д.) вознаграждается!
 
 Anyway I am glad I can give you some of these yoyoxs.
 В любом случае, я рад, что могу дать тебе этих йойок.
@@ -279,7 +279,7 @@ Bare Hands
 Голые руки
 
 Be patient a little while longer, in the next few days we will arrive at the port of Artis...
-Потерпите еще немного, через несколько дней мы прибудем в порт Артиса...
+Потерпи еще немного, через несколько дней мы прибудем в порт Артиса...
 
 Before you go, let me tell you how to get @@s, because you don't look very smart.
 Перед тем, как ты уйдешь, давай я расскажу тебе как собрать @@, потому что ты не выглядишь шибко умным.
@@ -297,7 +297,7 @@ Bread
 Хлеб
 
 Break the door.
-Сломай дверь.
+Сломать дверь.
 
 Bring this box to Gugli. He will be extremely happy!
 Принеси эту коробку Гугли. Он будет очень счастлив!
@@ -321,10 +321,10 @@ But let's talk about this island. We're docking here to find some fine quality g
 Но давай поговорим об этом острове. Мы пришвартовались здесь, чтобы найти немного хороших товаров.
 
 But most important, she is the one who took care of you when you were unconscious.#0
-Более того, она - единственная, кто заботился о тебе, пока ты был без сознания.
+Более того, она - единственная, кто заботилась о тебе, пока ты был без сознания.
 
 But most important, she is the one who took care of you when you were unconscious.#1
-Более того, она - единственная, кто заботился о тебе, пока ты был без сознания.
+Более того, она - единственная, кто заботилась о тебе, пока ты был без сознания.
 
 But remember that not every place in this world is peaceful and safe nowadays. Even the white shores you are walking on can hide some dangerous beings.
 Но запомни, что не каждое место в мире мирное и безопасное в наши дни. Даже белые берега, по которым ты ходишь, могут скрывать в себе опасных созданий.
@@ -507,7 +507,7 @@ Don't bother her Silvio, or I'll to tell her that you cry like a baby when you h
 Не беспокой её, Сильвио, или я расскажу ей, что ты плачешь как ребёнок, когда слышишь шторм по ночам.
 
 Don't bother him Silvio, or I'll to tell him that you cry like a baby when you hear the thunder in the night.
-Не беспокой его, Сильвио, или я расскажу ей, что ты плачешь как ребёнок, когда слышишь шторм по ночам.
+Не беспокой его, Сильвио, или я расскажу, что ты плачешь как ребёнок, когда слышишь шторм по ночам.
 
 Don't do theee... *hic* with me eh!
 Не делай этоооо... *ик* со мной, э!
@@ -606,7 +606,7 @@ For a chef? Who said I was a... Oh right, I am.
 Для шефа? Кто сказал, что я был... Оу, правильно, да.
 
 From what I know, Gugli, my brother, needs the help of as many people as possible to collect all of the new things found on the island.
-От того что я знаю, Гугли, мой брат, помощь требуется стольким людям, сколько новых вещей можно найти на этом острове.
+Всё, что я знаю - Гугли, мой брат, нуждается в людях для переноса новых вещичек с острова на корабль.
 
 Fungus
 Фунгус
@@ -633,7 +633,7 @@ Go and grab one of them. A good knife will help you hunting the creatures of thi
 Пойди и возьми один. Хороший нож будет помогать тебе охотиться на существ острова.
 
 Go away.
-Уходи.
+Уйти.
 
 Good job!
 Хорошая работа!
@@ -885,7 +885,7 @@ How can I get one of these cookies?
 Как мне получить одно из печений?
 
 How could you... We said we wouldn't talk about this again...
-Как ты... Мы сказали, что не хотим об этом говорить снова...
+Как ты... Мы договорились, что не будем это больше обсуждать...
 
 How is *hic* it possible?
 Как *ик* это возможно?
@@ -906,7 +906,7 @@ Hurry, hurry! We need to check his teeth!
 Быстрее! Нам нужно проверить его зубы!
 
 I ALSO AVOID THE DANGEROUS ANIMALS!
-Я ТАК ЖЕ ОБОШЕЛ ОПАСНЫХ ЖИВОТНЫХ!
+Я ТАК ЖЕ ПРЕДУПРЕЖДАЮ ОБ ОПАСНЫХ ЖИВОТНЫХ!
 
 I AM DOING FINE!
 Я В ПОРЯДКЕ!
@@ -918,7 +918,7 @@ I SAID, SEE YOU LATER!
 Я СКАЗАЛ, УВИДИМСЯ ПОЗЖЕ!
 
 I WAS HERE WHEN THEY RESCUED YOU!
-Я БЫЛ ТУТ КОГДА ОНИ СПАСЛИ МЕНЯ!
+Я БЫЛ ТУТ КОГДА ОНИ СПАСЛИ ТЕБЯ!
 
 I WOULD LOVE TO!
 Я  БЫ С УДОВОЛЬСТВИЕМ!
@@ -996,7 +996,7 @@ I give you this key, it opens any doors on this ship.
 Я дам тебе этот ключ. Он открывает любую дверь на корабле.
 
 I guess so... I will leave you alone.
-Я думаю так... Я оставлю вас в покое.
+Я думаю да... Я оставлю тебя в покое.
 
 I have brought you a tasty present for your delicate mouth.
 Я принёс вкусный подарок для твоего деликатного рта.
@@ -1161,7 +1161,7 @@ I wonder too...
 Я тоже удивлен...
 
 I'M CALLED, @@!
-Я ПОЗВАЛ, @@!
+МЕНЯ ЗОВУТ, @@!
 
 I'd like to catch one of them, but they are flying away when I try.
 Я хотел бы поймать одну из них, но они улетают от меня, когда я подхожу близко.
@@ -1239,7 +1239,7 @@ I'm sure Tibbo is alone in the south-west corner of the island. He believes it's
 Я уверен, Тиббо один, в юго-западном уголке острова. Он верит, что это лучшее место для сбора @@.
 
 I'm sure he will soon be able to fight all of the creatures living here without any problem.
-Я уверен, скоро она будет в состоянии драться с существами, живущими здесь.
+Я уверен, скоро он будет в состоянии драться с существами, живущими здесь.
 
 I'm sure she will soon be able to fight all of the creatures living here without any problem.
 Я уверен, скоро она будет в состоянии драться с существами, живущими здесь.
@@ -1248,10 +1248,10 @@ I'm sure that you've got some questions for me, feel free to ask them, but first
 Я уверен у тебя есть вопросы ко мне, не стесняйся спрашивать, но для начала я должен рассказать тебе правила поведения на борту.
 
 I'm sure you'll appreciate its effect, but be careful, these cookies are rare, and you'll need to help the community again before being able to receive another one.#0
-
+Я уверен, ты будешь довольна её эффектом, но будь осторожна, эти печеньки редкие и тебе надо будет помочь сообществу ещё раз, перед тем, как просить ещё одно.
 
 I'm sure you'll appreciate its effect, but be careful, these cookies are rare, and you'll need to help the community again before being able to receive another one.#1
-
+Я уверен, ты будешь доволен её эффектом, но будь осторожен, эти печеньки редкие и тебе надо будет помочь сообществу ещё раз, перед тем, как просить ещё одно.
 
 I'm the cook's assistant of the ship. I help Gado, La Johanne's Chef, in his daily work.
 Я ассистент повара на этом корабле. Я помогаю Гадо, Шефу Ля Джоанн в его повседневной работе.
@@ -1275,7 +1275,7 @@ If I saw *hic* who you were... *hic* Would not have helped you!
 Если бы я видел *ик* кем ты был... *ик* бы тебе не помог!
 
 If you feel bored or like turning in circles, you may want to talk with the other sailors around here to get some tasks.
-Если тебе скучно или ты словно белка в колесе, ты можешь поговорить с другими моряками чтобы получить ответы.
+Если тебе скучно или если чувствуешь себя бесполезным, ты можешь поговорить с другими моряками. Может у них будет работа для тебя.
 
 If you see weird things, or things that shouldn't be here, or even things that you would like to see there...
 Если ты видишь глупые вещи или вещи, которые не должны тут быть или у тебя есть вещи, которые ты хотел бы увидеть здесь... 
@@ -1284,10 +1284,10 @@ If you want another one, you know what to do!
 Если хочешь ещё - ты знаешь что делать!
 
 If you want to be rewarded, help us in making this world a better place.#0
-
+Если ты хочешь быть вознаграждёна, помоги нам в развитии и становлении этого мира, как лучшего.
 
 If you want to be rewarded, help us in making this world a better place.#1
-
+Если ты хочешь быть вознаграждён, помоги нам в развитии и становлении этого мира, как лучшего.
 
 If you want to read this page again, there is a copy up on the left wall.
 Если ты хочешь прочитать эту страницу снова, тут есть копия на левой стене.
@@ -1353,7 +1353,7 @@ It seems you still have some work to do.
 Похоже у тебя ещё есть работа.
 
 It was something like a long nap.
-Это чем-то походило на длинный ворс.
+Это чем-то походило на длинный сон.
 
 It would be good for you to do some exercise, the ship isn't big enough for that.
 Тебе было бы неплохо сделать несколько упражнений. Судно не такое большое для этого.
@@ -1371,10 +1371,10 @@ It's alright! Just one more box and it'll be ok.
 Всё хорошо! Просто ещё одна коробка приведёт всё в порядок.
 
 It's good, good... I have a friend who is still in a coma, but I can't be with her without working...
-Это хорошо, хорошо ... У меня есть друг, который все еще находится в коме, но я не могу быть с ней, сидя без дела...
+Это хорошо, хорошо... У меня есть друг, который все еще находится в коме, но я не могу быть с ней, сидя без дела...
 
 It's interesting and exciting at the same time!
-Это интересно и волнующе одновременно!
+Она интересная и очень волнующая!
 
 It's ok.
 Ничего страшного.
@@ -1452,7 +1452,7 @@ Lettuce Leaf
 Листья Капусты
 
 Living inside a ship is great, but we sometimes need some fresh air.
-Жизнь в корабле - это здорово, но нам иногда нужен свежий воздух.
+Жизнь на корабле - это здорово, но нам иногда нужен свежий воздух.
 
 Look how splendid this landscape is!
 Посмотри какой замечательный ландшафт! 
@@ -1500,7 +1500,7 @@ My beauty, I was not always a sailor, you know, I was once an important individu
 Моя прелесть, я не всегда был моряком, ты знаешь, я был важной персоной!
 
 My friend, I was not always a sailor, you know, I was once an important individual!
-Мой друг, я не всегда был моряком, когда-то я был \"огромной шишкой\"!
+Мой друг, я не всегда был моряком, когда-то я был 'огромной шишкой'!
 
 My friends are... Well, you know... The creators.
 Мои друзья... Ну, ты знаешь... Создатели.
@@ -1515,7 +1515,7 @@ My name is Julia, it is me who took care of you after we found you in the sea.
 Меня зовут Джулия. Это я присматривала за тобой, после того, как нашли тебя в море.
 
 NOTHING ELSE OTHER THAN SHARKS AND AN ODD LIGHT!
-БОЛЬШЕ, КРОМЕ АКУЛ И СТРАННОГО СВЕТА!
+НИЧЕГО, КРОМЕ АКУЛ И СТРАННОГО СВЕТА!
 
 Nard
 Нард
@@ -1557,7 +1557,7 @@ No!
 Нет!
 
 No, I can't, I just wanted to travel across the seas for fun. In this cave, you see, I have a lot of fun.
-Нет, я не могу, я только хотел путешествовать по морям для развлечения. В этой дыре, как видишь, у меня куча развлечений.
+Нет, я не могу. Я всего-то хотел по-путешествовать по морям, просто повеселиться. В этой дыре, как видишь, у меня куча развлечений.
 
 No, I don't, but I would like to know more about that.
 Нет, но мне бы хотелось больше узнать об этом.
@@ -1572,7 +1572,7 @@ No, indeed. I was here to help you with those boxes. Can I bring one of them bac
 Нет, правда. Я был здесь, хотел помочь тебе с коробками. Могу ли я принести одну назад к Гугли?
 
 No, none.
-Нет, никто.
+Нет, ничего.
 
 No, sorry.
 Нет.
@@ -1788,7 +1788,7 @@ Orc Voice
 Голос орка
 
 Other than that, I don't know much about what else is going on, so directly asking the Cap'tain about it could be a good idea.
-Кроме того, я многого не знаю о том что происходит, так что напрямую спросить Капитана будет хорошей идеей.
+Кроме того, я не знаю что происходит вокруг, так что лучше спрашивай обо всём Капитана.
 
 Other things are written but are not legible anymore.
 Тут написано что-то другое, но неразборчиво.
@@ -1803,7 +1803,7 @@ Our crew is like a family, and if you agree to help us, I would like to invite y
 Наша команда как семья и если ты согласен помочь нам, я с радостью приму тебя в нашу семью!
 
 People started to steal from each other to survive. As cities grew, needs did too. Wars for fertile lands then rose.
-Люди начали воровать другу у друга, чтобы выжить. Город растёт вместе с потребностями. Войны за плодородные земли, потом розы.
+Люди начали воровать другу у друга, чтобы выжить. Город рос вместе с потребностями. Войны за плодородные земли бушевали повсюду.
 
 Perfect!
 Превосходно!
@@ -2112,10 +2112,10 @@ That's perfect, yoiis.#1
 Это отлично, йойис.
 
 That's quite surprising... You don't look very helpful.#0
-
+Это удивительно... Ты не выглядишь сильно полезной.
 
 That's quite surprising... You don't look very helpful.#1
-
+Это удивительно... Ты не выглядишь сильно полезным.
 
 The adventure begins!
 Приключение начинается!
@@ -2217,7 +2217,7 @@ These boxes are way too heavy to be brought alone onto the ship.
 Эти коробки слишком тяжелые, чтобы тащить их в одиночку на корабль.
 
 These crocotrees are full of yaying @@, but they are so hard to hit...
-Эти крокодеревья полны йейинга @@, но их сложно ударить.
+Эти крокодеревья полны йейого @@, но их сложно сбить.
 
 These heavy boxes are killing me, I don't feel my arms anymore!
 Эти тяжелые коробки меня когда-нибудь убьют... Я не чувствую своих рук!
@@ -2280,7 +2280,7 @@ Tibbo
 Тиббо
 
 Tibbo went to the east-south of the island, others are gone to the north, and I think that Gulukan is not so far from here.
-Тиббо пришел на юго-восток острова, остальные пошли на север и я думаю, Гулукан не так уж и далеко от меня. 
+Тиббо пошел на юго-восток острова, остальные пошли на север и, я думаю, Гулукан где-то недалеко отсюда.
 
 Tibbo.
 Тиббо
@@ -2289,7 +2289,7 @@ To open your inventory, use the F3 key or use your mouse to select it in the abo
 Чтобы открыть инвентарь используйте клавишу F3 или используйте мышь, чтобы выбрать его в верхнем меню на вашем клиенте. 
 
 Too bad I'm not hungry enough right now for these... cookies. I'll maybe come back later.
-Очень плохо. Я не очень голоден для этих... Печений. Я, наверное, вернусь позднее. 
+Мне жально, но я не очень голоден... Не хочу я печенье. Я, наверное, вернусь позже. 
 
 Too bad... Come back when you'll have some fine food for me.
 Очень плохо... Возвращайся, когда у тебя будет еда.
@@ -2325,7 +2325,7 @@ Unfortunately, we still need help from you. This time it will be a delicate task
 К сожалению, нам всё ещё нужна помощь от тебя. На этот раз это будет деликатная просьба здесь, на борту.
 
 Use the key.
-Используй ключ. 
+Использовать ключ.
 
 Usually I don't allow anyone to touch my boxes but...
 Обычно я никому не разрешаю прикасаться к своим коробкам, но...
@@ -2343,7 +2343,7 @@ Wait, why do you still have the dish on you?!
 Погоди, почему блюдо до сих пор у тебя?!
 
 Wait... That's not the place for a chef, what are you doing here?
-
+Погоди... Это не место для шефа. Что ты здесь делаешь?
 
 Wait... Where are we going?
 Стоп... Куда мы идём?
@@ -2397,7 +2397,7 @@ We usually don't stop in such splendid places, but the captain let us stay here 
 Обычно, мы не останавливаемся в таких прекрасных местах, но капитан разрешил нам остаться здесь на время, пока он записывает местоположение этого острова!
 
 We will be yaying there in a few days, so we will drop you off there.
-Мы прибудем туда в течение нескольких дней, так что мы высадит вас там.
+Мы прибудем туда в течение нескольких дней, высадит тебя там.
 
 Well I'm working too! Don't you want me to carry one of these boxes back to Gugli?
 Ну так я тоже работаю! Ты же не хочешь, чтобы я тащил один из этих ящиков назад к Гугли?
@@ -2427,10 +2427,10 @@ Well, even though you have been rescued by us, it doesn't make you an expert sai
 Ну, даже если мы тебя спасли, это не значит, что ты моряк-эксперт, так ведь?
 
 Well, if you want to be one of those who can have a cookie...#0
-
+Ну, если ты хочешь быть одной из тех, у кого есть печенька... 
 
 Well, if you want to be one of those who can have a cookie...#1
-
+Ну, если ты хочешь быть одним из тех, у кого есть печенье...
 
 Well, is there anything I can do here to help?
 Так я могу здесь чем-нибудь помочь?
@@ -2520,7 +2520,7 @@ What happened to me?
 Что со мной случилось?
 
 What if I give you 1000 Esperin for that job, is it ok?
-
+Что если я дам тебе 1000 Эсперин за эту работу. Хорошо?
 
 What is Artis?
 Что такое Артис?
@@ -2937,16 +2937,16 @@ You tell me. Do I deserve a cookie?
 Ты расскажи. Я заслуживаю печенье?
 
 You told me that you 'were' important.
-Ты сказал мне, что ты \"был\" важен.
+Ты сказал мне, что ты 'был' огромной шишкой.
 
 You tried to get rid of me, eeh? But surprise! I'm still here... *hic* Or there...
 Хотел от меня избавиться, а? Сюрприз! Я еще здесь... *ик* Или там...
 
 You were in bad shape, you should be happy we found you before the sea killed you.#0
-Ты был в плохом состоянии, ты должен быть счастлив, что мы нашли тебя до того, как море убило тебя.#0
+Ты был в плохом состоянии, ты должен быть счастлив, что мы нашли тебя до того, как море убило тебя.
 
 You were in bad shape, you should be happy we found you before the sea killed you.#1
-Ты был в плохом состоянии, ты должен быть счастлив, что мы нашли тебя до того, как море убило тебя.#1
+Ты был в плохом состоянии, ты должен быть счастлив, что мы нашли тебя до того, как море убило тебя.
 
 You were yaying sleeping for quite some time there, our shipkeeper, Julia, was here with you, she did her best to heal your injuries.#0
 Ты очень долго спала, наш судовой содержатель, Джулия, была тут с тобой, она сделал все, чтобы вылечить твои раны.
@@ -2976,13 +2976,13 @@ You're like the rest of this filthy crew. Your name is now on the traitors list!
 Ты, как и остальные, из этой мерзкой шайки. Твое имя теперь в списке предателей!
 
 You're on a ship, we're on our way to the commercial capital of Artis.
-Ты на корабле, мы на пути промышленной столице Артиса.
+Ты на корабле, мы плывём к промышленной столице Артиса.
 
 You're on our ship, we made port to a little island and we're actually yeyending our long merchant traveling adventure at the city of Artis.#0
-Ты на нашем корабле, мы сделали привал на небольшом острове и теперь наше длинное рискованное торговое путешествие закончится в Артисе.
+Ты на нашем корабле, мы сделали привал на небольшом острове, но вскоре наше длинное рискованное торговое путешествие закончится в Артисе.
 
 You're on our ship, we made port to a little island and we're actually yeyending our long merchant traveling adventure at the city of Artis.#1
-Ты на нашем корабле, мы сделали привал на небольшом острове и теперь наше длинное рискованное торговое путешествие закончится в Артисе.
+Ты на нашем корабле, мы сделали привал на небольшом острове, но вскоре наше длинное рискованное торговое путешествие закончится в Артисе.
 
 You're one of us now, that's great! I was sure that you were a good man when I first saw you!
 Ты один из нас теперь. Это отлично! Я был уверен, что ты будешь хорошим человеком, когда увидел тебя впервые!
